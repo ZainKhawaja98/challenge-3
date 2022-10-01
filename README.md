@@ -2,12 +2,7 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+This website will create a random password that matches the prompts given such as use of uppercase or special characters. It can be used for people who need a secure password with a length between 8-128 characters and can be used for bank logins, emails, or anything that requires a secure password. It solves the problem of reusing the same password for multiple sites or using a password that has a dictionary word which isn't as secure as a string of random numbers, letters, and special characters. I learned how to create variables in javascript and how to create an array.
 
 ## Installation
 
@@ -15,11 +10,8 @@ N/A
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+In order to use the website, click on generate password and type in the number of characters the password should have with a length between 8-128. Then follow the prompts for what to include in the password such as special, numeric, uppercase, and lowercase characters. The password will display in the text box on the website.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
-
-![alt text](assets/images/screenshot.png)
 
 ## Credits
 
