@@ -11,7 +11,7 @@ N/A
 
 ## Usage
 
-In order to use the website, click on generate password and type in the number of characters the password should have with a length between 8-128. Then follow the prompts for what to include in the password such as special, numeric, uppercase, and lowercase characters. The password will display in the text box on the website.
+In order to use the website, click on generate password and type in the number of characters the password should have with a length between 8-128. Then follow the prompts for what to include in the password such as special, numeric, uppercase, and lowercase characters. The password will be displayed in the text box on the website.
 ![password-website](images/website.png)
 
 ## Credits
