@@ -3,7 +3,7 @@ https://zainkhawaja98.github.io/challenge-3/
 
 ## Description
 
-This website will create a random password that matches the prompts given such as use of uppercase or special characters. It can be used for people who need a secure password with a length between 8-128 characters and can be used for bank logins, emails, or anything that requires a secure password. It solves the problem of reusing the same password for multiple sites or using a password that has a dictionary word which isn't as secure as a string of random numbers, letters, and special characters. I learned how to create variables in javascript and how to create an array.
+This website will create a random password that matches the prompts given such as use of uppercase or special characters. It can be used for people who need a secure password with a length between 8-128 characters and can be used for bank logins, emails, or anything that requires a secure password. It solves the problem of reusing the same password for multiple sites or using a password that has a dictionary word which isn't as secure as a string of random numbers, letters, and special characters. I learned how to create variables in javascript and how to create a arrays.
 
 ## Installation
 
