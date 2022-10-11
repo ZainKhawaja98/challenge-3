@@ -1,4 +1,4 @@
-https://zainkhawaja98.github.io/challenge-3/
+https://zainkhawaja98.github.io/challenge-3-password-generator/
 # Password Generator Starter Code
 
 ## Description
